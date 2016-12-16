@@ -1,0 +1,23 @@
+{
+  "name": "angular-pdf-to-image",
+  "homepage": "https://github.com/Marchrius/angular-pdf-to-image",
+  "authors": [
+    "Matteo Gaggiano <maxxxx92@gmail.com>"
+  ],
+  "description": "An angular module to extract images from a pdf with a service",
+  "main": "dist/angular-pdf-to-image.js",
+  "keywords": [
+    "angular",
+    "pdf",
+    "image",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
